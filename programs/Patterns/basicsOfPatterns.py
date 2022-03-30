@@ -1,9 +1,11 @@
 """
 Print Pattern 1 as displayed below:
+
 	# # # #
 	# # # #
 	# # # #
 	# # # #
+    
 """
 print("Print Patterns Program 1: \n")
 for i in range(4):
@@ -15,11 +17,11 @@ for i in range(4):
     
 """
 Print Pattern 2 as displayed below:
-    # 
-	# # 
-	# # # 
-	# # # #
 
+# 
+# # 
+# # # 
+# # # #
 
 
 """
@@ -36,10 +38,12 @@ for i in range(4):
    
 """
 Print Pattern 4 as displayed below:
+
           #
         # #
 	  # # #
 	# # # #
+
 """
 print()  # ignore this
 print()  # ignore this 
@@ -55,10 +59,12 @@ for i in range(4):
 
 """
 Print Pattern 3 as displayed below:
-	# # # #
-	# # # 
-	# # 
-	# 
+
+# # # #
+# # # 
+# # 
+# 
+
 """
 print()  # ignore this
 print()  # ignore this 
